@@ -1,0 +1,4 @@
+Uma pessoa de olhos vendados para de forma reta e joga 7 vezes uma bola de beiseboll verticalmente para cima
+e constatou que duas cairam na sua cabeça, uma caiu em um dos ombros e quatro cairam no chão. 
+Se este esperimento fosse realizado nas mesmas condicoes que jogar tres vezes uma bola de beiseboll, 
+qual a probabilidade de uma cair na cabeça, uma no ombro e uma no chão.
